@@ -1,0 +1,4 @@
+["MinStack","push","push","push","min","pop","top","min"]
+[[],[-2],[0],[-3],[],[],[],[]]
+["MinStack","push","push","push","min","pop","top","min"]
+[[],[2],[-9],[5],[],[],[],[]]

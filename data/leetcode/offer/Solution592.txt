@@ -1,0 +1,4 @@
+["MaxQueue","push_back","push_back","max_value","pop_front","max_value"]
+[[],[1],[2],[],[],[]]
+["MaxQueue","pop_front","max_value"]
+[[],[],[]]

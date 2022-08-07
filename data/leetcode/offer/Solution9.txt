@@ -1,0 +1,4 @@
+["CQueue","appendTail","deleteHead","deleteHead"]
+[[],[3],[],[]]
+["CQueue","deleteHead","appendTail","appendTail","deleteHead","deleteHead"]
+[[],[],[5],[2],[],[]]
