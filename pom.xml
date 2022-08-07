@@ -15,10 +15,9 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.lengyu</groupId>
+            <groupId>io.github.aa3615058</groupId>
             <artifactId>leetcode-tester</artifactId>
             <version>1.0</version>
         </dependency>
     </dependencies>
-
 </project>
